@@ -1,2 +1,2 @@
 #helloworld
-print "Hello World!"
+echo "Hello World!"
